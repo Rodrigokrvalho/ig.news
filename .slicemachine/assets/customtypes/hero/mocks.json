@@ -1,0 +1,15 @@
+{
+  "id": "53fc25ad-bc44-40a4-920c-7208e3607f5c",
+  "uid": "fugit-voluptas-quibusdam",
+  "type": "hero",
+  "data": {
+    "title": "engineer cross-platform blockchains",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Duis laborum in id et deserunt ullamco Lorem incididunt. Excepteur consequat ut non velit excepteur pariatur exercitation labore sit nisi magna exercitation elit exercitation.",
+        "spans": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_cts": {
+    "hero": {
+      "content": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "slices": {
+    "Posts": {}
+  }
+}
